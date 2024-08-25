@@ -1,0 +1,108 @@
+.mtp__header {
+  min-height: 50dvh;
+}
+
+.mtp__title-wrapper {
+  margin-bottom: 2em;
+}
+
+.mtp__title {
+  margin-bottom: 0;
+}
+
+.mtp__officers {
+  width: 100%;
+  position: relative;
+  visibility: hidden;
+  opacity: 0;
+  transform: translateY(-25px);
+  height: 0;
+  transform-origin: top;
+  /* z-index: 2; */
+}
+
+.--open {
+  transition: opacity, transform, visibility;
+  transition-duration: 0.25s;
+  visibility: visible;
+  opacity: 1;
+  transform: translateY(0);
+  background-color: rgba(0, 0, 0, 0.4);
+  height: auto;
+  margin-bottom: 1em;
+  margin-top: 0;
+  /* border: 1px solid red; */
+}
+
+.mtp__btn-student-wrapper {
+  /* max-width: 50rem; */
+  margin-bottom: 1em;
+}
+
+.mtp__student-wrapper {
+  /* border: 1px solid red; */
+  padding: 0.5em;
+  
+  display: flex;
+  gap: 0.5em;
+  align-items: center;
+  margin-bottom: 0.5em;
+  height: auto;
+  opacity: 1;
+}
+
+.--close-sw{
+  display: flex;
+  height: 0;
+}
+
+
+.mtp__btn-title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  padding: 0.5em;
+  display: inline-block;
+  /* border: 1px solid red; */
+  background-color: rgba(0, 0, 0, 0.4);
+  gap: 0.5em;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.mtp__title-icon-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+}
+
+.mtp__student-name {
+  font-weight: 600;
+  font-size: 1.12rem;
+}
+
+.mtp__student-name,
+.mtp__student-pos {
+  margin: 0 0.5em 0 0.5em;
+}
+
+.mtp__student-desc {
+  display: flex;
+  flex-direction: column;
+}
+
+.mtp__img-wrapper {
+  width: 4rem;
+}
+
+.mtp__image {
+  width: 100%;
+  object-fit: cover;
+  aspect-ratio: 1;
+  border-radius: 50%;
+}
+
+.mtp__mem-count {
+  font-size: 0.85rem;
+  font-weight: 300;
+}
