@@ -3,7 +3,7 @@
 
 import { useState } from 'react';
 import '../../src/styles/Header.css'
-import logoSm from '../assets/images/r_dit_1-5_logo-xsm.png'
+import logoSm from '/assets/images/r_dit_1-5_logo-xsm.png'
 import MenuIcon from '@mui/icons-material/Menu';
 import CloseIcon from '@mui/icons-material/Close';
 import HomeIcon from '@mui/icons-material/Home';

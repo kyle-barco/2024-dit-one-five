@@ -1,4 +1,4 @@
-import logoSm from '../assets/images/r_dit_1-5_logo-xsm.png'
+import logoSm from '/assets/images/r_dit_1-5_logo-xsm.png'
 import '../styles/Footer.css'
 import { FacebookRounded } from '@mui/icons-material'
 import Icon from '@mdi/react';

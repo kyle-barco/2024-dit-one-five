@@ -1,0 +1,302 @@
+[
+  {
+    "officers": [
+      {
+        "name": "Jim Christian De Vera",
+        "pos": "President",
+        "image": "assets/images/officers/jim.webp",
+        "fbLink": "https://m.facebook.com/jimchristian.devera.1"
+      },
+      {
+        "name": "Dave Stephen Llaguno",
+        "pos": "Vice President",
+        "image": "assets/images/officers/dave.jpg",
+        "fbLink": "https://m.facebook.com/davestephen.llaguno.6166"
+      },
+      {
+        "name": "Keisha Kikoa Parreño",
+        "pos": "Secretary",
+        "image": "assets/images/officers/keisha.webp",
+        "fbLink": "https://m.facebook.com/keishakikoa"
+      },
+      {
+        "name": "Bernadette P. Pangilinan",
+        "pos": "Treasurer",
+        "image": "assets/images/students/anon.png",
+        "fbLink": "https://m.facebook.com/keishakikoa"
+      },
+      {
+        "name": "Kyle Barco",
+        "pos": "Acting Officer",
+        "image": "assets/images/officers/me.webp",
+        "fbLink": "https://www.facebook.com/kylebarco9"
+      },
+      {
+        "name": "Sophia Grace Vicente",
+        "pos": "Acting Officer",
+        "image": "assets/images/officers/sophia.webp",
+        "fbLink": "https://m.facebook.com/xcx.laurcabello"
+      },
+      {
+        "name": "Wency A Geraldo",
+        "pos": "Acting Officer",
+        "image": "assets/images/officers/wency.webp",
+        "fbLink": "https://m.facebook.com/wency.geraldo.7"
+      }
+    ],
+    "students": [
+      {
+        "name": "Aldrin Clark Adino",
+        "date": "3/8/2003",
+        "image": "assets/images/students/01_aldrin.jpg",
+        "pos": "DIT 1-5 Student"
+      },
+      {
+        "name": "Angel Mharkie D. Cabales",
+        "date": "10/11/2005",
+        "image": "assets/images/students/02_angel.jpg",
+        "pos": "DIT 1-5 Student"
+      },
+      {
+        "name": "Antonette F. Formento ",
+        "date": "1/17/2006",
+        "image": "assets/images/students/03_antonette.jpg",
+        "pos": "DIT 1-5 Student"
+      },
+      {
+        "name": "Carl Bernard B. Cortez",
+        "date": "10/9/2005",
+        "image": "assets/images/students/04_carl.jpg",
+        "pos": "DIT 1-5 Student"
+      },
+      {
+        "name": "Chris John Albert C. Bagacina",
+        "date": "3/22/2006",
+        "image": "assets/images/students/05_chris.jpg",
+        "pos": "DIT 1-5 Student"
+      },
+      {
+        "name": "Christian Josh Rojas",
+        "date": "",
+        "image": "assets/images/students/35_christian-josh.jpg",
+        "pos": "DIT 1-5 Student"
+      },
+      {
+        "name": "Claude Martin Evangelista",
+        "date": "11/8/2004",
+        "image": "assets/images/students/06_claude.jpg",
+        "pos": "DIT 1-5 Student"
+      },
+      {
+        "name": "Earl Laurence Arboleda",
+        "date": "",
+        "image": "assets/images/students/anon.png",
+        "pos": "DIT 1-5 Student"
+      },
+      {
+        "name": "Elaine Lara V. Balauro ",
+        "date": "3/11/2006",
+        "image": "assets/images/students/anon.png",
+        "pos": "DIT 1-5 Student"
+      },
+      {
+        "name": "Ellina Denise T. Samonte",
+        "date": "1/23/2006",
+        "image": "assets/images/students/07_denise.jpg",
+        "pos": "DIT 1-5 Student"
+      },
+      {
+        "name": "Gabriel Achilles S. Palattao",
+        "date": "8/16/2006",
+        "image": "assets/images/students/08_gabriel.jpg",
+        "pos": "DIT 1-5 Student"
+      },
+      {
+        "name": "Glynicel B. Vicente",
+        "date": "1/8/2006",
+        "image": "assets/images/students/09_glynicel.jpg",
+        "pos": "DIT 1-5 Student"
+      },
+      {
+        "name": "Hans Joseph Torres Caluya",
+        "date": "7/23/2004",
+        "image": "assets/images/students/10_hans.jpg",
+        "pos": "DIT 1-5 Student"
+      },
+      {
+        "name": "Harian Joy S. Avenilla ",
+        "date": "8/12/2005",
+        "image": "assets/images/students/11_harian.jpg",
+        "pos": "DIT 1-5 Student"
+      },
+      {
+        "name": "Hazelle Portento",
+        "date": "5/29/2006",
+        "image": "assets/images/students/12_hazelle.jpg",
+        "pos": "DIT 1-5 Student"
+      },
+      {
+        "name": "Jess Mathew P. Layno",
+        "date": "12/6/2006",
+        "image": "assets/images/students/13_jess.jpg",
+        "pos": "DIT 1-5 Student"
+      },
+      {
+        "name": "Jhon Chris Tablatin",
+        "date": "",
+        "image": "assets/images/students/anon.png",
+        "pos": "DIT 1-5 Student"
+      },
+      {
+        "name": "Joaquin Enrico L Capistrano ",
+        "date": "1/15/2005",
+        "image": "assets/images/students/14_joaquin.jpg",
+        "pos": "DIT 1-5 Student"
+      },
+      {
+        "name": "John Gabriel Palomo",
+        "date": "10/25/2006",
+        "image": "assets/images/students/anon.png",
+        "pos": "DIT 1-5 Student"
+      },
+      {
+        "name": "John Vergel Q. Brioso",
+        "date": "3/8/2006",
+        "image": "assets/images/students/15_john-vergel.jpg",
+        "pos": "DIT 1-5 Student"
+      },
+      {
+        "name": "Joseph L. Rosete",
+        "date": "8/22/2006",
+        "image": "assets/images/students/16_joseph.jpg",
+        "pos": "DIT 1-5 Student"
+      },
+      {
+        "name": "Kate Nica C. Advincula",
+        "date": "8/19/2006",
+        "image": "assets/images/students/anon.png",
+        "pos": "DIT 1-5 Student"
+      },
+      {
+        "name": "Ma. Sophia Estaras",
+        "date": "6/22/2006",
+        "image": "assets/images/students/18_sophia.jpg",
+        "pos": "DIT 1-5 Student"
+      },
+      {
+        "name": "Mark Jairus Ocampo",
+        "date": "10/11/2006",
+        "image": "assets/images/students/19_mark-jairus.jpg",
+        "pos": "DIT 1-5 Student"
+      },
+      {
+        "name": "Mark Joseph L. Braza",
+        "date": "3/14/2006",
+        "image": "assets/images/students/20_mark-joseph.jpg",
+        "pos": "DIT 1-5 Student"
+      },
+      {
+        "name": "Mark Oliver Linag",
+        "date": "11/8/2005",
+        "image": "assets/images/students/21_mark-oliver.jpg",
+        "pos": "DIT 1-5 Student"
+      },
+      {
+        "name": "Micah Maureen D. Guda",
+        "date": "12/9/2006",
+        "image": "assets/images/students/22_micah.jpg",
+        "pos": "DIT 1-5 Student"
+      },
+      {
+        "name": "Mikaella Jezel J. Licup ",
+        "date": "1/11/2006",
+        "image": "assets/images/students/23_mikaella.jpg",
+        "pos": "DIT 1-5 Student"
+      },
+      {
+        "name": "Monrick Joshua B. Mandap",
+        "date": "2/18/2006",
+        "image": "assets/images/students/17_monrick.jpg",
+        "pos": "DIT 1-5 Student"
+      },
+      {
+        "name": "Nil Jon V. Amagsila",
+        "date": "6/12/2006",
+        "image": "assets/images/students/24_nil.jpg",
+        "pos": "DIT 1-5 Student"
+      },
+      {
+        "name": "Prince Andre Samuco",
+        "date": "",
+        "image": "assets/images/students/25_prince.jpg",
+        "pos": "DIT 1-5 Student"
+      },
+      {
+        "name": "Ranier Magtanong",
+        "date": "",
+        "image": "assets/images/students/26_ranier.jpg",
+        "pos": "DIT 1-5 Student"
+      },
+      {
+        "name": "Rico T. Mendoza",
+        "date": "11/22/2004",
+        "image": "assets/images/students/27_rico.jpg",
+        "pos": "DIT 1-5 Student"
+      },
+      {
+        "name": "Savina T. Lilagan",
+        "date": "9/29/2006",
+        "image": "assets/images/students/28_savina.jpg",
+        "pos": "DIT 1-5 Student"
+      },
+      {
+        "name": "Sean Andrei C. Benedicto ",
+        "date": "9/1/2006",
+        "image": "assets/images/students/29_sean.jpg",
+        "pos": "DIT 1-5 Student"
+      },
+      {
+        "name": "Sean Luis Ashton B. Neri",
+        "date": "5/21/2006",
+        "image": "assets/images/students/anon.png",
+        "pos": "DIT 1-5 Student"
+      },
+      {
+        "name": "Thomas Angelo N. Ingal",
+        "date": "4/6/2006",
+        "image": "assets/images/students/30_thomas.jpg",
+        "pos": "DIT 1-5 Student"
+      },
+      {
+        "name": "Tracy Benito",
+        "date": "",
+        "image": "assets/images/students/36_tracy.jpg",
+        "pos": "DIT 1-5 Student"
+      },
+      {
+        "name": "Venize Mica M. Montojo ",
+        "date": "1/4/2005",
+        "image": "assets/images/students/31_venize.jpg",
+        "pos": "DIT 1-5 Student"
+      },
+      {
+        "name": "Warren Lee Ople",
+        "date": "6/4/2006",
+        "image": "assets/images/students/32_warren.jpg",
+        "pos": "DIT 1-5 Student"
+      },
+      {
+        "name": "Yvhes M. Tolentino",
+        "date": "9/22/2005",
+        "image": "assets/images/students/33_yvhes.jpg",
+        "pos": "DIT 1-5 Student"
+      },
+      {
+        "name": "Zander B. Dellumas",
+        "date": "8/22/2005",
+        "image": "assets/images/students/34_zander.jpg",
+        "pos": "DIT 1-5 Student"
+      }
+    ]
+  }
+]

@@ -1,4 +1,5 @@
-import data from '../../data.js'
+import data from '../../data.json'
+
 import '../../styles/mtp.css'
 import GavelIcon from '@mui/icons-material/Gavel';
 import { ArrowDropDown } from '@mui/icons-material';
