@@ -1,4 +1,6 @@
+@import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap");
 :root {
+  --primary-ff: "Press Start 2P", sans-serif;
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
@@ -23,12 +25,13 @@ a:hover {
 }
 html,
 body {
+  font-family: var(--primary-ff);
   overscroll-behavior-y: none;
   /* max-width: 100vw; */
-
 }
 
-html{
+html {
+  font-size: calc(1.125rem - 7px);
   /* border: 1px solid blue; */
 }
 
@@ -36,6 +39,7 @@ body {
   margin: 0;
   min-width: 320px;
   height: 500px;
+  line-height: 1.7;
   /* border: 1px solid yellow; */
   /* min-height: 100vh; */
 }

@@ -51,7 +51,7 @@ export default function Mtp() {
                   <a key={item.id} href={item.fbLink} target='_blank'>
                     <div key={item.id} className="mtp__student-wrapper">
                       <div className="mtp__img-wrapper">
-                        <img className="mtp__image --gen-fs" src={item.image} alt={`${getFirstName(item.name)}'s photo`} />
+                        <img loading='lazy' className="mtp__image --gen-fs" src={item.image} alt={`${getFirstName(item.name)}'s photo`} />
                       </div>
                       <div className="mtp__student-desc">
                         <p className='mtp__student-name --gen-fs'>{item.name}</p>
@@ -73,7 +73,7 @@ export default function Mtp() {
                 return (
                   <div key={item.id} className="mtp__student-wrapper">
                     <div className="mtp__img-wrapper">
-                      <img className="mtp__image" src={item.image} alt={`${getFirstName(item.name)}'s photo`} />
+                      <img loading='lazy' className="mtp__image" src={item.image} alt={`${getFirstName(item.name)}'s photo`} />
                     </div>
                     <div className="mtp__student-desc">
                       <p className='mtp__student-name --gen-fs'>{item.name}</p>

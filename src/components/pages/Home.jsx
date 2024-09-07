@@ -9,7 +9,7 @@ export default function Home() {
     <section className="home container --margin-bottom">
       <div className="home__hero-section">
         <div className="home__img-wrapper">
-          <img src={welcomepg} alt="" />
+          <img loading='lazy' src={welcomepg} alt="" />
         </div>
         <h1 className="home__title --title-fs">Welcome to PUP DIT 1-5 Hub!</h1>
       </div>
